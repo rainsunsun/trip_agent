@@ -1,0 +1,7 @@
+fastapi==0.104.1
+pydantic==2.5.2
+langchain==0.1.0
+langgraph==0.0.15
+langchain-openai==0.0.2
+hello-agents[protocols]==0.1.5
+python-dotenv==1.0.0
